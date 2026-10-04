@@ -1,0 +1,11 @@
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\bin\Debug\Assignment_if_elseif.exe.config
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\bin\Debug\Assignment_if_elseif.exe
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\bin\Debug\Assignment_if_elseif.pdb
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\obj\Debug\Assignment_if_elseif.csproj.AssemblyReference.cache
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\obj\Debug\Assignment_if_elseif.Form1.resources
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\obj\Debug\Assignment_if_elseif.Properties.Resources.resources
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\obj\Debug\Assignment_if_elseif.csproj.GenerateResource.cache
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\obj\Debug\Assignment_if_elseif.csproj.CoreCompileInputs.cache
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\obj\Debug\Assignment_if_elseif.exe
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\obj\Debug\Assignment_if_elseif.pdb
+D:\C##\first-exaple\Assignment_if_elseif\Assignment_if_elseif\obj\Debug\Assignment_if_elseif.exe.config

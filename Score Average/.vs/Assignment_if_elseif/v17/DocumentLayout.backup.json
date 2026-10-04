@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C##\\first-exaple\\Assignment_if_elseif\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE29605-2E5F-41C0-ACD1-AC64FEFD57D5}|Assignment_if_elseif\\Assignment_if_elseif.csproj|d:\\c##\\first-exaple\\assignment_if_elseif\\assignment_if_elseif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AE29605-2E5F-41C0-ACD1-AC64FEFD57D5}|Assignment_if_elseif\\Assignment_if_elseif.csproj|solutionrelative:assignment_if_elseif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AE29605-2E5F-41C0-ACD1-AC64FEFD57D5}|Assignment_if_elseif\\Assignment_if_elseif.csproj|d:\\c##\\first-exaple\\assignment_if_elseif\\assignment_if_elseif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AE29605-2E5F-41C0-ACD1-AC64FEFD57D5}|Assignment_if_elseif\\Assignment_if_elseif.csproj|solutionrelative:assignment_if_elseif\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C##\\first-exaple\\Assignment_if_elseif\\Assignment_if_elseif\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment_if_elseif\\Form1.cs",
+              "ToolTip": "D:\\C##\\first-exaple\\Assignment_if_elseif\\Assignment_if_elseif\\Form1.cs*",
+              "RelativeToolTip": "Assignment_if_elseif\\Form1.cs*",
+              "ViewState": "AgIAACMAAAAAAAAAAAAqwDkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:03:34.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C##\\first-exaple\\Assignment_if_elseif\\Assignment_if_elseif\\Form1.cs",
+              "RelativeDocumentMoniker": "Assignment_if_elseif\\Form1.cs",
+              "ToolTip": "D:\\C##\\first-exaple\\Assignment_if_elseif\\Assignment_if_elseif\\Form1.cs [Design]*",
+              "RelativeToolTip": "Assignment_if_elseif\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T04:33:51.027Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
