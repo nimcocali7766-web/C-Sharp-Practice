@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C##\\first-exaple\\Payroll with overtime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA1AB3F-22AE-455D-A02D-AE76D123C5BD}|Payroll with overtime\\Payroll with overtime.csproj|d:\\c##\\first-exaple\\payroll with overtime\\payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4DA1AB3F-22AE-455D-A02D-AE76D123C5BD}|Payroll with overtime\\Payroll with overtime.csproj|solutionrelative:payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DA1AB3F-22AE-455D-A02D-AE76D123C5BD}|Payroll with overtime\\Payroll with overtime.csproj|d:\\c##\\first-exaple\\payroll with overtime\\payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DA1AB3F-22AE-455D-A02D-AE76D123C5BD}|Payroll with overtime\\Payroll with overtime.csproj|solutionrelative:payroll with overtime\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C##\\first-exaple\\Payroll with overtime\\Payroll with overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "Payroll with overtime\\Form1.cs",
+              "ToolTip": "D:\\C##\\first-exaple\\Payroll with overtime\\Payroll with overtime\\Form1.cs*",
+              "RelativeToolTip": "Payroll with overtime\\Form1.cs*",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwEoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:45:30.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C##\\first-exaple\\Payroll with overtime\\Payroll with overtime\\Form1.cs",
+              "RelativeDocumentMoniker": "Payroll with overtime\\Form1.cs",
+              "ToolTip": "D:\\C##\\first-exaple\\Payroll with overtime\\Payroll with overtime\\Form1.cs [Design]*",
+              "RelativeToolTip": "Payroll with overtime\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-04T05:28:37.829Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
