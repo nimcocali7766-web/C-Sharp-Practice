@@ -1,0 +1,10 @@
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\bin\Debug\HomeAssignmenthotel.exe.config
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\bin\Debug\HomeAssignmenthotel.exe
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\bin\Debug\HomeAssignmenthotel.pdb
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\obj\Debug\HomeAssignmenthotel.csproj.AssemblyReference.cache
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\obj\Debug\HomeAssignmenthotel.Form1.resources
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\obj\Debug\HomeAssignmenthotel.Properties.Resources.resources
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\obj\Debug\HomeAssignmenthotel.csproj.GenerateResource.cache
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\obj\Debug\HomeAssignmenthotel.csproj.CoreCompileInputs.cache
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\obj\Debug\HomeAssignmenthotel.exe
+D:\C##\first-exaple\HomeAssignmenthotel\HomeAssignmenthotel\obj\Debug\HomeAssignmenthotel.pdb
