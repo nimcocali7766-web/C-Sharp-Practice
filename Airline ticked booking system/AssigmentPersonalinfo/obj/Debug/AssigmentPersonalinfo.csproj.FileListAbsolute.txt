@@ -1,0 +1,11 @@
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\obj\Debug\AssigmentPersonalinfo.csproj.AssemblyReference.cache
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\obj\Debug\AssigmentPersonalinfo.Form1.resources
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\obj\Debug\AssigmentPersonalinfo.Properties.Resources.resources
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\obj\Debug\AssigmentPersonalinfo.csproj.GenerateResource.cache
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\obj\Debug\AssigmentPersonalinfo.csproj.CoreCompileInputs.cache
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\bin\Debug\AssigmentPersonalinfo.exe.config
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\bin\Debug\AssigmentPersonalinfo.exe
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\bin\Debug\AssigmentPersonalinfo.pdb
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\obj\Debug\AssigmentPersonalinfo.exe
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\obj\Debug\AssigmentPersonalinfo.pdb
+D:\C##\first-exaple\AssigmentPersonalinfo\AssigmentPersonalinfo\obj\Debug\AssigmentPersonalinfo.exe.config
