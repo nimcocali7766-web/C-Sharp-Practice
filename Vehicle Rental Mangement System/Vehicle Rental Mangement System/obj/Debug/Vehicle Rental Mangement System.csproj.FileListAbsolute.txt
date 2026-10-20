@@ -1,0 +1,11 @@
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\obj\Debug\Vehicle Rental Mangement System.csproj.AssemblyReference.cache
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\obj\Debug\Vehicle_Rental_Mangement_System.Form1.resources
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\obj\Debug\Vehicle_Rental_Mangement_System.Properties.Resources.resources
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\obj\Debug\Vehicle Rental Mangement System.csproj.GenerateResource.cache
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\obj\Debug\Vehicle Rental Mangement System.csproj.CoreCompileInputs.cache
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\bin\Debug\Vehicle Rental Mangement System.exe.config
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\bin\Debug\Vehicle Rental Mangement System.exe
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\bin\Debug\Vehicle Rental Mangement System.pdb
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\obj\Debug\Vehicle Rental Mangement System.exe
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\obj\Debug\Vehicle Rental Mangement System.pdb
+D:\C##\first-exaple\Vehicle Rental Mangement System\Vehicle Rental Mangement System\obj\Debug\Vehicle Rental Mangement System.exe.config
