@@ -1,0 +1,11 @@
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\bin\Debug\AssignmentSoftwareSales.exe.config
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\bin\Debug\AssignmentSoftwareSales.exe
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\bin\Debug\AssignmentSoftwareSales.pdb
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\obj\Debug\AssignmentSoftwareSales.csproj.AssemblyReference.cache
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\obj\Debug\AssignmentSoftwareSales.Form1.resources
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\obj\Debug\AssignmentSoftwareSales.Properties.Resources.resources
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\obj\Debug\AssignmentSoftwareSales.csproj.GenerateResource.cache
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\obj\Debug\AssignmentSoftwareSales.csproj.CoreCompileInputs.cache
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\obj\Debug\AssignmentSoftwareSales.exe
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\obj\Debug\AssignmentSoftwareSales.pdb
+D:\C##\first-exaple\AssignmentSoftwareSales\AssignmentSoftwareSales\obj\Debug\AssignmentSoftwareSales.exe.config
