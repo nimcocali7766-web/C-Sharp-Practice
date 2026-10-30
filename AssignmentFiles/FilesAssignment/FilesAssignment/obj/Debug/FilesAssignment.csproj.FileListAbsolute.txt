@@ -1,0 +1,11 @@
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\bin\Debug\FilesAssignment.exe.config
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\bin\Debug\FilesAssignment.exe
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\bin\Debug\FilesAssignment.pdb
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\obj\Debug\FilesAssignment.csproj.AssemblyReference.cache
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\obj\Debug\FilesAssignment.Form1.resources
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\obj\Debug\FilesAssignment.Properties.Resources.resources
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\obj\Debug\FilesAssignment.csproj.GenerateResource.cache
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\obj\Debug\FilesAssignment.csproj.CoreCompileInputs.cache
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\obj\Debug\FilesAssignment.exe
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\obj\Debug\FilesAssignment.pdb
+D:\C##\first-exaple\FilesAssignment\FilesAssignment\obj\Debug\FilesAssignment.exe.config
