@@ -1,0 +1,10 @@
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\bin\Debug\File_Save_Dailog.exe.config
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\bin\Debug\File_Save_Dailog.exe
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\bin\Debug\File_Save_Dailog.pdb
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\obj\Debug\File_Save_Dailog.csproj.AssemblyReference.cache
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\obj\Debug\File_Save_Dailog.Form1.resources
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\obj\Debug\File_Save_Dailog.Properties.Resources.resources
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\obj\Debug\File_Save_Dailog.csproj.GenerateResource.cache
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\obj\Debug\File_Save_Dailog.csproj.CoreCompileInputs.cache
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\obj\Debug\File_Save_Dailog.exe
+D:\C##\first-exaple\File_Save_Dailog\File_Save_Dailog\obj\Debug\File_Save_Dailog.pdb
