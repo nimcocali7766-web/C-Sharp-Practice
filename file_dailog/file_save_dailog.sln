@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37628.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "file_dailog", "file_dailog\file_dailog.csproj", "{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF944AFF-2CA6-46E1-9E0A-49EF8D9E895A}
+	EndGlobalSection
+EndGlobal

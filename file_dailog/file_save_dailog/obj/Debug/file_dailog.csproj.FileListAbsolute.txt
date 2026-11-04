@@ -1,0 +1,11 @@
+D:\C##\first-exaple\file_dailog\file_dailog\bin\Debug\file_dailog.exe.config
+D:\C##\first-exaple\file_dailog\file_dailog\bin\Debug\file_dailog.exe
+D:\C##\first-exaple\file_dailog\file_dailog\bin\Debug\file_dailog.pdb
+D:\C##\first-exaple\file_dailog\file_dailog\obj\Debug\file_dailog.csproj.AssemblyReference.cache
+D:\C##\first-exaple\file_dailog\file_dailog\obj\Debug\file_dailog.Form1.resources
+D:\C##\first-exaple\file_dailog\file_dailog\obj\Debug\file_dailog.Properties.Resources.resources
+D:\C##\first-exaple\file_dailog\file_dailog\obj\Debug\file_dailog.csproj.GenerateResource.cache
+D:\C##\first-exaple\file_dailog\file_dailog\obj\Debug\file_dailog.csproj.CoreCompileInputs.cache
+D:\C##\first-exaple\file_dailog\file_dailog\obj\Debug\file_dailog.exe
+D:\C##\first-exaple\file_dailog\file_dailog\obj\Debug\file_dailog.pdb
+D:\C##\first-exaple\file_dailog\file_dailog\obj\Debug\file_dailog.exe.config

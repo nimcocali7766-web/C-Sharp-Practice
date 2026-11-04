@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C##\\first-exaple\\file_dailog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}|file_dailog\\file_dailog.csproj|d:\\c##\\first-exaple\\file_dailog\\file_dailog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}|file_dailog\\file_dailog.csproj|solutionrelative:file_dailog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}|file_dailog\\file_dailog.csproj|d:\\c##\\first-exaple\\file_dailog\\file_dailog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0268A5E1-87AB-4A9C-9CB9-9A909D21C03F}|file_dailog\\file_dailog.csproj|solutionrelative:file_dailog\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C##\\first-exaple\\file_dailog\\file_dailog\\Form1.cs",
+              "RelativeDocumentMoniker": "file_dailog\\Form1.cs",
+              "ToolTip": "D:\\C##\\first-exaple\\file_dailog\\file_dailog\\Form1.cs*",
+              "RelativeToolTip": "file_dailog\\Form1.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwBkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T17:02:18.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C##\\first-exaple\\file_dailog\\file_dailog\\Form1.cs",
+              "RelativeDocumentMoniker": "file_dailog\\Form1.cs",
+              "ToolTip": "D:\\C##\\first-exaple\\file_dailog\\file_dailog\\Form1.cs [Design]*",
+              "RelativeToolTip": "file_dailog\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T16:54:43.98Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
